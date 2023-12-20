@@ -1,2 +1,6 @@
+# back-end
 server/node_modules/
 server/.env
+
+# front-end
+front/node_modules/
